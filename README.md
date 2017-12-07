@@ -12,5 +12,5 @@
 Inside of your articles insert `{mpa-lang YOUR_LANGUAGE_STRING}` where you want the localized string to be inserted.  
 
 
-##Examples
+## Examples
 `{mpa-lang JANUARY}` would be replaced by the localized name of the first month, so "January" in *en-GB*, and "Jänner" in *de-DE* and so on.
