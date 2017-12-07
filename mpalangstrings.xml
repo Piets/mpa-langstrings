@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content">
+	<name>Content - MPA.net: Language Strings</name>
+	<author>Peter Kraml</author>
+	<creationDate>07-12-2017</creationDate>
+	<copyright>Copyright (C) 2017, MacPietsApps.net</copyright>
+	<license>MIT License</license>
+	<authorEmail>apps@macpiets.net</authorEmail>
+	<authorUrl>macpietsapps.net</authorUrl>
+	<version>1.0</version>
+	<description>Display localized language strings inside content.</description>
+	<files>
+		<filename plugin="mpalangstrings">mpalangstrings.php</filename>
+	</files>
+</extension>
